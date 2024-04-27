@@ -8,13 +8,9 @@
 
 ${\textsf{\large{\color{#ffce00}⭐ Welcome }}}$   ${\textsf{\large{\color{#fffff}to Software Developer}}}$  ${\textsf{\large{\color{#5588ff}Jin 🏂}}}$
 
----
-
 <br/>
 
-<img src="https://t1.daumcdn.net/thumb/R720x0.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/9Uc8/image/1flLMGNh0-W6shZgxP48ABaggcY.png" width="500" height="300" > <br/>
 
-<br/>
 <br/>
 
 ## 🔨 Skills
