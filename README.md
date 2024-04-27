@@ -3,17 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=f0f8ff&text=Grab%20a%20Snack&fontSize=70&fontColor=b0ceff&animation=fadeIn&fontAlignY=55)
 
 
-
+<br/>
 <br/>
 
 ${\textsf{\large{\color{#ffce00}⭐ Welcome }}}$   ${\textsf{\large{\color{#fffff}to Software Developer}}}$  ${\textsf{\large{\color{#5588ff}Jin 🏂}}}$
 
+***
 <br/>
 
+### 🗒️ Skills   
 
-<br/>
 
-## 🔨 Skills
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -33,7 +33,7 @@ ${\textsf{\large{\color{#ffce00}⭐ Welcome }}}$   ${\textsf{\large{\color{#ffff
 <br/>
 <br/>
 
-## 🧐 Studying
+### 🧐 Studying
 
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white">
@@ -43,7 +43,7 @@ ${\textsf{\large{\color{#ffce00}⭐ Welcome }}}$   ${\textsf{\large{\color{#ffff
 <br/>
 
 
-## 🔨 Tools
+### 🔨 Tools
 
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
@@ -55,7 +55,7 @@ ${\textsf{\large{\color{#ffce00}⭐ Welcome }}}$   ${\textsf{\large{\color{#ffff
 <br/>
 <br/>
 
-## 🤗 Contact
+### 🤗 Contact
 
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
