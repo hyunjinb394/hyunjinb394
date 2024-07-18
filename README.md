@@ -1,6 +1,6 @@
 <div align = "center">
   
-![header](https://capsule-render.vercel.app/api?type=Venom&color=f0f8ff&text=Experiment%20PlayGround%20&fontSize=50&fontColor=b0ceff&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=f0f8ff&text=Experimental%20PlayGround%20&fontSize=50&fontColor=b0ceff&animation=fadeIn&fontAlignY=55)
 
 
 <br/>
