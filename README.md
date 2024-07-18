@@ -5,13 +5,12 @@
 
 <br/>
 
-<section alt="self-introduce" align="left">
-<h2 align="left"> 👨‍💻 Hi there, it's Jin </h2>
-<h4 align="left"> Web Frontend Developer🌐 | Dopamine Developer🤩 </h3>
-
+<section align="left" aria-labelledby="self-introduce title">
+<h2> 👨‍💻 Hi there, it's Jin </h2>
+  <h4> Web Frontend Developer🌐 | Dopamine Developer🤩 </h4>
   <div>
     <strong>Keyword of me : </strong>
-    Team player, Knowledge Seeker, and Challenge Lover
+    Team player, Knowledge Seeker and Challenge Lover
   </div>
 </section>
 
@@ -20,21 +19,28 @@
 <br/>
 <br/>
 
-<table style="width: 100%;">
-   <tr>
-    <td align="left"><h4>📖 Recent Studying </h4></td> 
-    <td align="left"><h4>🚀 Core Skills</h4></td>
-    <td align="left"><h4>🤗 Contact</h4></td>
-  </tr>
-  <tr>
+<main aria-labelledby="self-introduce details">
+  <section aria-labelledby="table">
+  <table>
+    <thead>
+     <tr>
+      <th align="left"><strong>📖 Recent Studying </strong></th> 
+      <th align="left"><strong>🚀 Core Skills</strong></th>
+      <th align="left"><strong>🤗 Contact</strong></th>
+     </tr>
+    </thead>  
+  <tbody>
+    <tr>
     <td align="left">
-      <div> • 응집도를 높히고 결합도를 낮추는 컴포넌트 설계</div>
-      <div> • Tanstack Query로 옵저버 패턴 익히기</div>
-      <div> • Next.js를 안전하게 사용하기</div>
-      <div> • Designing component that increases cohesion and reduces coupling </div>
-      <div> • Learning the observer pattern with Tanstack Query </div>
-      <div> • Using Next.js safely </div>
-      <div> • Increasing web accessibility</div>
+      <ul>
+        <li> 응집도를 높히고 결합도를 낮추는 컴포넌트 설계</li>
+        <li> Tanstack Query로 옵저버 패턴 익히기</li>
+        <li> Next.js를 안전하게 사용하기</li>
+        <li> Designing components that increase cohesion and reduce coupling </li>
+        <li> Learning the observer pattern with Tanstack Query </li>
+        <li> Using Next.js safely </li>
+        <li> Increasing web accessibility</li>
+      </ul>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,sass,redux,vite,postman,pnpm,git,figma&perline=6" />
@@ -47,10 +53,12 @@
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
       </a>
     </td>
-  </tr>
+    </tr>
+  </tbody>
 </table>
+</section>
 
-
+</main>
 <br/>
 <br/>
 </div>
