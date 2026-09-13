@@ -1,66 +1,25 @@
-<div align = "center">
-  
-![header](https://capsule-render.vercel.app/api?type=Venom&color=f0f8ff&text=Experimental%20PlayGround%20&fontSize=50&fontColor=b0ceff&animation=fadeIn&fontAlignY=55)
+### Work
 
+**임팩트 연구소** · EV 충전 플랫폼 · 2024.09 ~
 
-<br/>
+- 후불 간편결제 시스템
+- 인앱 웹뷰 개발 및 성능 최적화
 
-<section align="left" aria-labelledby="self-introduce title">
-<h2> 👨‍💻 Hi there, it's Jin </h2>
-  <h4> Web Frontend Developer🌐 | Dopamine Developer🤩 </h4>
-  <div>
-    <strong>Keyword of me : </strong>
-    Team player, Knowledge Seeker and Challenge Lover
-  </div>
-</section>
+### Interest
 
+- AI로 팀의 병목 줄이기
 
+### Tech Stack
 
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,mongodb,kafka,aws,githubactions&perline=8" />
 
-<main aria-labelledby="self-introduce details">
-  <section aria-labelledby="table">
-  <table>
-    <thead>
-     <tr>
-      <th align="left"><strong>📖 Recent Studying </strong></th> 
-      <th align="left"><strong>🚀 Core Skills</strong></th>
-      <th align="left"><strong>🤗 Contact</strong></th>
-     </tr>
-    </thead>  
-  <tbody>
-    <tr>
-    <td align="left">
-      <ul>
-        <li> 응집도를 높히고 결합도를 낮추는 컴포넌트 설계</li>
-        <li> Tanstack Query로 옵저버 패턴 익히기</li>
-        <li> Next.js를 안전하게 사용하기</li>
-        <li> Designing components that increase cohesion and reduce coupling </li>
-        <li> Learning the observer pattern with Tanstack Query </li>
-        <li> Using Next.js safely </li>
-        <li> Increasing web accessibility</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,sass,redux,vite,postman,pnpm,git,figma&perline=6" />
-    </td>
-    <td align="center">
-      <a href="mailto:hyunjinb394@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-      </a>
-      <a href="https://discord.com">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-      </a>
-    </td>
-    </tr>
-  </tbody>
-</table>
-</section>
+- **Frontend** · TypeScript, React, Next.js, TanStack Query, Jotai, styled-components
+- **Backend · Infra** · NestJS, MongoDB, Kafka, AWS Lambda, GitHub Actions
 
-</main>
-<br/>
-<br/>
-</div>
+### Activity
 
+- Teo Conf 2025 운영진
 
+### Contact
+
+[hyunjinb394@gmail.com](mailto:hyunjinb394@gmail.com) · [Blog](https://hot-potato-archive.pages.dev/blog/)
