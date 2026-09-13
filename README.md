@@ -1,16 +1,21 @@
-**Full-stack engineer who proactively defines problems, regardless of role boundaries.**
+안녕하세요.<br>
+역할의 경계 없이 문제를 주도적으로 풀어나가는 풀스택 엔지니어 현진입니다.
+
+*Hello, I'm Jin.*<br>
+*A full-stack engineer who proactively solves problems, regardless of role boundaries.*
 
 ### Work
 
 **임팩트 연구소** · EV 충전 플랫폼 · 2024.09 ~<br>
-<sub>Empact Labs · EV charging platform</sub>
+*Empact Labs · EV charging platform*
 
-- 후불 간편결제 시스템<br><sub>Post-paid payment system</sub>
-- 인앱 웹뷰 개발 및 성능 최적화<br><sub>In-app webview development and performance optimization</sub>
+- 후불 간편결제 시스템<br>*Post-paid payment system*
+- 인앱 웹뷰 개발 및 성능 최적화<br>*In-app webview development and performance optimization*
 
 ### Interest
 
-- AI로 팀의 병목 줄이기<br><sub>Reducing team bottlenecks with AI</sub>
+- AI로 팀의 병목 줄이기<br>*Reducing team bottlenecks with AI*
+- AI에 의존해도 되는 환경 구축하기<br>*Building an environment where the team can safely rely on AI*
 
 ### Tech Stack
 
@@ -21,7 +26,7 @@
 
 ### Activity
 
-- Teo Conf 2025 운영진<br><sub>Teo Conf 2025 organizer</sub>
+- Teo Conf 2025 운영진<br>*Teo Conf 2025 organizer*
 
 ### Contact
 
