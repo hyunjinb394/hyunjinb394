@@ -2,5 +2,5 @@
 
 <p>
   <a href="mailto:hyunjinb394@gmail.com"><img src="https://img.shields.io/badge/Email-hyunjinb394%40gmail.com-111418?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://hot-potato-archive.pages.dev/blog/"><img src="https://img.shields.io/badge/Blog-hot_potato_archive-52525B?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://hot-path-archive.hyunjinb394.workers.dev/"><img src="https://img.shields.io/badge/Blog-hot_path_archive-52525B?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
